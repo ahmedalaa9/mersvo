@@ -1,0 +1,18 @@
+.soft-shadow {
+  box-shadow: 1px 1px 15px #ccc;
+}
+
+.gap-5 {
+  gap: 5px;
+}
+
+// [dir='rtl'] {
+// [dir='ltr'] {
+//   @font-face {
+//     font-family: ArabicFont;
+//     src: url(src/assets//public/fonts/STCForward/STCForward-Regular.ttf);
+//   }
+//   *:not(i) {
+//     font-family: ArabicFont;
+//   }
+// }
